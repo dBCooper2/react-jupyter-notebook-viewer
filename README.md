@@ -1,4 +1,6 @@
-# React Jupyter Notebook Viewer
+# React Jupyter Notebook Viewer - Modified for [dBCooper.io](https://github.com/dBCooper2/dBCooper.io)
+
+## Original README:
 
 <img src="https://raw.githubusercontent.com/mtetik98/react-jupyter-notebook-viewer/main/static/logo.webp" align="right" width="200" />
 
